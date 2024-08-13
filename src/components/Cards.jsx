@@ -10,7 +10,7 @@ function Cards() {
       </div>
       <div className=" md:flex gap-3 justify-between mx-5 py-4">
         <div className="w-[400px] h-[450px]  border shadow-2xl rounded-lg ">
-          <img className="rounded-lg" src="./src/assets/a.jpg" alt="" />
+          <img className="rounded-lg" src="https://github.com/RDHira/bg-Changer/blob/main/src/assets/a.jpg?raw=true" alt="" />
           <h1 className="text-white text-3xl font-bold text-center">
             Front-End Developer
           </h1>
@@ -23,7 +23,7 @@ function Cards() {
         </div>
 
         <div className="w-[400px] h-[450px]  border shadow-2xl rounded-lg ">
-          <img className="rounded-lg" src="./src/assets/a.jpg" alt="" />
+          <img className="rounded-lg" src="https://github.com/RDHira/bg-Changer/blob/main/src/assets/a.jpg?raw=true" alt="" />
           <h1 className="text-white text-3xl font-bold text-center">
             FullStack Developer
           </h1>
@@ -36,7 +36,7 @@ function Cards() {
         </div>
 
         <div className="w-[400px] h-[450px]  border shadow-2xl rounded-lg ">
-          <img className="rounded-lg" src="./src/assets/a.jpg" alt="" />
+          <img className="rounded-lg" src="https://github.com/RDHira/bg-Changer/blob/main/src/assets/a.jpg?raw=true" alt="" />
           <h1 className="text-white text-3xl font-bold text-center">
             Back-End Developer
           </h1>
